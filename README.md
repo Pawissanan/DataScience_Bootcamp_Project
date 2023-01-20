@@ -7,8 +7,8 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 ## Spreadsheets
 
 - [x]  [Dynamic Query](https://github.com/kitti98/bootcamp_projects/blob/main/Spreadsheets/Spreadsheets_Dynamic_Query.png) - Queries that return results dynamically
-- [x]  [Converting Date](https://github.com/kitti98/bootcamp_projects/blob/main/Spreadsheets/Spreadsheets_Convert_Date.png) - Converting TH date to EN date
-- [x]  [ID Card Parser](https://github.com/kitti98/bootcamp_projects/blob/main/Spreadsheets/Spreadsheets_ID_Card_Parser.png) - Using regular expression to extract and parse ID card information
+- [x]  [Converting Date](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/Spreadsheets/Convert%20Date.png) - Converting TH date to EN date
+- [x]  [ID Card Parser](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/Spreadsheets/ID%20Card%20Parser.png) - Using regular expression to extract and parse ID card information
 
 ## SQL Database
 
