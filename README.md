@@ -6,12 +6,12 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 
 ## Spreadsheets
 
-- [x]  [Dynamic Query](https://github.com/kitti98/bootcamp_projects/blob/main/Spreadsheets/Spreadsheets_Dynamic_Query.png) - Queries that return results dynamically
+- [x]  [Dynamic Query](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/Spreadsheets/Dynamic%20Query.png) - Queries that return results dynamically
 - [x]  [Converting Date](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/Spreadsheets/Convert%20Date.png) - Converting TH date to EN date
 - [x]  [ID Card Parser](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/Spreadsheets/ID%20Card%20Parser.png) - Using regular expression to extract and parse ID card information
 
 ## SQL Database
 
-- [ ]  [restaurant_owner.sql](https://github.com/kitti98/bootcamp_projects/blob/main/SQL/restaurant_owner.sql) - A small database of a restaurant containing five dimension tables and one fact table, and some SQL queries to analyze data
+- [ ]  [restaurant_owner.sql]() - A small database of a restaurant containing five dimension tables and one fact table, and some SQL queries to analyze data
 
 Comming Soon...
