@@ -1,2 +1,2 @@
-# DataScience_Bootcamp_Project
-Data science bootcamp with @Toy DataRockie
+# DataScience Bootcamp Project
+Data science bootcamp with @Toy from DataRockie
