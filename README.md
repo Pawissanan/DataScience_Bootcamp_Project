@@ -12,7 +12,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 
 ## SQL Database
 
-- [x]  [restaurant_owner.sql](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/SQL/my_restaurant.sql) - A small database of a restaurant containing five tables and some SQL queries to analyze data
+- [x]  [restaurant_owner.sql](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/SQL/my_restaurant.sql) - A small database of a restaurant containing five tables and some SQL queries to analyze data --> [Try out](https://replit.com/@UsPawissanan/BootcamphomeworkSQL?v=1)
 
 ## R
 Comming Soon...
