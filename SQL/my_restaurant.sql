@@ -1,4 +1,4 @@
--- restaurant database
+-- create restaurant database
 .open restaurant.db
 
 -- 5 tables
