@@ -2,7 +2,7 @@
 
 **Data science bootcamp with `@Toy` from [DataRockie](https://datarockie.com/)**
 
-We learned 10 sprints during the 4-month intensive program. These are the projects/homework I have done in `DataRockie` Bootcamp.
+We'll learned 10 sprints during the 4-month intensive program. These are the projects/homework I have done in `DataRockie` Bootcamp.
 
 ## Spreadsheets
 
