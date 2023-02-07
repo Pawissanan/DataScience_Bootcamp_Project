@@ -15,6 +15,9 @@ We'll learned 10 sprints during the 4-month intensive program. These are the pro
 - [x]  [restaurant_owner.sql](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/SQL/my_restaurant.sql) - A small database of a restaurant containing five tables and some SQL queries to analyze data --> [Try out](https://replit.com/@UsPawissanan/BootcamphomeworkSQL?v=1)
 
 ## R
-- [x]  [Brewster_bot.R](https://github.com/kitti98/bootcamp_projects/blob/main/R/pizza_shop_chatbot.r) - A rule-based chatbot to order pizza with some dialogue
-- [x]  [rock_paper_scissor.R](https://github.com/kitti98/bootcamp_projects/blob/main/R/Pao_Ying_Chub.r) - An interactive rock-paper-scissors game with a bot
+- [x]  [Brewster_bot.R](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/R/Brewster_bot.R) - A text-based conversation between a user and a chatbot with some dialogue
+- [x]  [rock_paper_scissor.R](https://github.com/Pawissanan/DataScience_Bootcamp_Project/blob/main/R/rock_paper_scissor.R) - An interactive rock-paper-scissors game with a bot
+
 Comming Soon...
+## Data Transformation
+## Data Visualization
